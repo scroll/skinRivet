@@ -1,6 +1,11 @@
 '''
 Very fast and simple rivet-like solution for attaching objects to skinned meshes in Autodesk Maya
 author: Marin Petrov marin@hey.com
+
+How to use:
+1) Select a vertex on a skinned mesh
+2) Shift-Select the object you want to drive
+3) Run the code below
 '''
 
 
