@@ -1,3 +1,9 @@
+'''
+Very fast and simple rivet-like solution for attaching objects to skinned meshes in Autodesk Maya
+author: Marin Petrov marin@hey.com
+'''
+
+
 import maya.cmds as mc
 sel = mc.ls(sl=True)
 
